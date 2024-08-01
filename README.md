@@ -12,10 +12,12 @@ Throughout my learning journey, I've developed a keen interest in building pract
 
 - **Interest Calculator Program (Python):** A handy application that calculates interest over time, providing users with valuable insights into their investments or loans.
 
-Both of these projects have been pivotal in honing my skills in Python, giving me hands-on experience in problem-solving and application development.
+- **Data Analysis Fundamentals (SQL):** This project is designed to showcase my basic SQL skills and contains various SQL scripts and queries that I have used for learning and practice. 
+
+Both of these projects have been pivotal in honing my skills in Python and SQL, giving me hands-on experience in problem-solving and application development.
 
 ## Skills
-- **Languages:** Python (2 & 3), JavaScript
+- **Languages:** Python (2 & 3), SQL, JavaScript
 - **Tools & Technologies:** AWS Cloud, Microsoft Power Platforms, Microsoft Office Suite (10+ Years), Video-Editing, SQL Reporting Services
 - **Certifications:** AWS Cloud Practitioner, Microsoft Power Platforms
 
