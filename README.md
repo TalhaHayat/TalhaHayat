@@ -19,13 +19,14 @@ Both of these projects have been pivotal in honing my skills in Python and SQL, 
 ## Skills
 - **Languages:** Python (2 & 3), SQL, JavaScript
 - **Tools & Technologies:** AWS Cloud, Microsoft Power Platforms, Microsoft Office Suite (10+ Years), Video-Editing, SQL Reporting Services
-- **Certifications:** AWS Cloud Practitioner, Microsoft Power Platforms
+- **Certifications:** Azure Fundamentals, AWS Cloud Practitioner, Microsoft Power Platforms
 
 ## Connect With Me
 I'm always open to connecting with fellow tech enthusiasts and professionals. Whether you're interested in collaborating on a project, sharing knowledge, or just saying hi, feel free to reach out!
 
 - LinkedIn: [Profile](https://www.linkedin.com/in/talha-hayat/)
 - Credly: [Badges](https://www.credly.com/users/talha-hayat/badges)
+- Microsoft: [Certificates](https://learn.microsoft.com/en-us/users/talhahayat-6666/credentials?tab=credentials-tab)
 - HyperionDev: [Assignments](https://www.hyperiondev.com/portfolio/TO23100011034/)
 - CodeAcademy: [Practice](https://www.codecademy.com/profiles/T.Hayat)
 
