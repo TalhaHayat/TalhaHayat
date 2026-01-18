@@ -18,7 +18,7 @@ Both of these projects have been pivotal in honing my skills in Python and SQL, 
 
 ## Skills
 - **Languages:** Python (2 & 3), SQL, JavaScript
-- **Tools & Technologies:** AWS Cloud, Microsoft Power Platforms, Microsoft Office Suite (10+ Years), Video-Editing, SQL Reporting Services
+- **Tools & Technologies:** AWS Cloud, Microsoft Power Platforms, Microsoft Office Suite (10+ Years), Microsoft Fabric, SQL Reporting Services, Video-Editing, AI Video Generation Tools 
 - **Certifications:** Azure Fundamentals, AWS Cloud Practitioner, Microsoft Power Platforms
 
 ## Connect With Me
